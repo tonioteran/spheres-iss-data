@@ -9,10 +9,10 @@ init time | end time | test | utility
 2:59:10 | 3:00:56 | T1 Quick Checkout | good for mapping
 3:01:35 | 3:05:18 | T2 Close Approach (GM) | useful (well behaved)
 3:12:00 | 3:15:11 | T3 Close Crossing (GM) | useful (well behaved)
- | | T3 Close Crossing (GM) | (where is it? LOS?)
+ ? | ? | T3 Close Crossing (GM) | (where is it? LOS?)
 3:16:11 | 3:17:48 | T4 Close Approach | try to use (rotating sats)
 3:19:10 | 3:20:12 | T4 Close Appropch | try to use (rotating, worse)
- | | T5 Close Crossing | (where is it? LOS?)
+ ? | ? | T5 Close Crossing | (where is it? LOS?)
 3:21:00 | 3:22:42 | T6 Both Static, Full FOV ??? | red uncontrolled, analyze gtsam (could be T5?)
 3:23:33 | 3:26:27 | T15 Both Static, Twist (GM) | useful (good control)
 3:27:00 | 3:27:27 | T12 Both Static, Full FOV (GM) | not useful
