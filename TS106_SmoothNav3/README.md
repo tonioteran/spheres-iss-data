@@ -28,3 +28,5 @@ init time | end time | test | utility
 ## Notes:
 
 Calibration procedure had to be carried out for Blue, VAS A (which is the SPHERES who's previous calibration parameters were computed offline on the ground and subsequently uploaded and installed during TS099 REDDI 2). *Need to check on the whiteboard to see what's up*. Additionally, it appears as if the calibration process was actually not finished???
+
+Params used for creating GIFs: 480 height, 0.5fps, 0.2delay, 25% fuzz.
